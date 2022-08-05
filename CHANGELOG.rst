@@ -2,6 +2,13 @@
 Changelog
 =========
 
+1.7.1 (2022-08-05)
+~~~~~~~~~~~~~~~~~~
+
+* Added pickling of `__tracebackhide__` variable in locals for compatibility
+  with pytest stack frame suppression.
+
+
 1.7.0 (2020-07-24)
 ~~~~~~~~~~~~~~~~~~
 

@@ -19,8 +19,8 @@ def read(*names, **kwargs):
 
 
 setup(
-    name='tblib',
-    version='1.7.0',
+    name='pyodide-tblib',
+    version='1.7.1',
     license='BSD-2-Clause',
     description='Traceback serialization library.',
     long_description='{}\n{}'.format(
